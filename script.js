@@ -3,7 +3,7 @@
 // @namespace    Violentmonkey Scripts
 // @match        *://www.youtube.com/*
 // @grant        none
-// @version      1.3
+// @version      1.0
 // @description  Toggles text visible that is overlaying the Youtube Short(e.g captions, channel name)
 // ==/UserScript==
 
